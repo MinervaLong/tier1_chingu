@@ -236,7 +236,7 @@ h2, .title-gray{
 	margin-bottom:3%;
 	margin-left:34%;
 	padding:0.6rem;
-	border-radius:10%;
+	border-radius:4%;
 	color:#FFFFFF;
 	border:none;
 	width:8rem;
@@ -251,7 +251,7 @@ h2, .title-gray{
 	background-color: #FFFFFF;
 	color:#7A7A7A;
 	border:0.5px solid #CDCDCD;
-	border-radius:10%;
+	border-radius:4%;
 	margin-bottom:3%;
 	margin-left:28%;
 	padding:0.6rem;
